@@ -28,6 +28,10 @@ I didn't finish it lmao.
 
 - [See TD on GitHub](https://github.com/sillyash/BUT/tree/main/S3-APP/R305/TD1) (it's a readable doc)
 
+Also, we had a lecture on Sockets n shit, it was a bit technical but dw bc the rest of the class didn't get it and you know a little bit of C.
+
+- [See lecture on sockets](https://cours.iut-orsay.fr/course/section.php?id=19683) (slide 1-15)
+
 <br>
 
 anyways
