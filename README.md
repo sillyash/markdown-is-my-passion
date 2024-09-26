@@ -54,7 +54,7 @@ this font is getting small
 - [ ] Overthrow the government in a violent uprising
 - [ ] \(Optional) Buy Valorant skin
 
-@octocat :+1: meow meow meow meow meow :shipit:
+@sillyash :+1: meow meow meow meow meow :shipit:
 
 > [!NOTE]
 > I fuck ur mom
