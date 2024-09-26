@@ -20,8 +20,19 @@ We started the first TP for Java bullshit or whatver it was going slow as fuck l
 
 We coutinued the first TD but it was really chill dw, kind of boring
 
+We finished every exercise except ex7.
+
+Apparently we're supposed to submit TP1 :trollface:
+
+I didn't finish it lmao.
+
 - [See TD on GitHub](https://github.com/sillyash/BUT/tree/main/S3-APP/R305/TD1) (it's a readable doc)
 
+<br>
+
+anyways
+
+<br>
 
 # HOPE YOU'RE OKAY BESTIE
 
@@ -40,8 +51,6 @@ this font is getting small
 <sup>**bold**</sup>
 
 <sup>***bisexual font***</sup>
-
-><sup>~UwU~</sup>
 
 <sup>~~I HAVE BODIES IN THE BASEMENT~~</sup>
 
